@@ -24,18 +24,18 @@ This setup—your console open in the lab's directory and the lab directory open
 
 3. In the console, run the test suite by typing `learn` and hitting enter. You'll see something similar to:
 
-![lab-fail](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_lab_fail.png)
+![lab-fail](https://s3.amazonaws.com/learn-verified/LearnTest.png)
 
 You can see your test is currently failing, which is fine, we haven't done any work yet, so it makes sense.
 
 The failure reads: `Make sure you have added a new file or edited edit-me.txt`
 
-4. To pass this lab, make any change to the content of the file that ends in `.rb`.
+4. To pass this lab, make any change to the content of the `edit-me.txt` file.
 
 
 5. Once your local tests are passing, you can submit this lab by running `learn submit` from your terminal.
 
-![learn-submit](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_learn_submit.png)
+![learn-submit](https://s3.amazonaws.com/learn-verified/LearnSubmit.png)
 
 You should see this lab pass on Learn.co. Congratulations! You've just solved your first lab. 
 
