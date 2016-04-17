@@ -4,7 +4,7 @@
 
 1. Open a lab by clicking "Open" on this page on Learn.co
 2. Run the lab's tests with the `learn` CLI command
-3. Make a change to your local copy of this lab
+3. Make a change to your copy of this lab
 4. Pass the tests using the `learn` CLI command
 5. Submit the passing lab with the `learn submit` CLI command
 
@@ -18,11 +18,9 @@ This lab is just about practicing the lab workflow on Learn using the `learn` CL
 
 After you click on this, your Learn IDE will launch. 
 
-2. After the lab is opened, your IDE should already be in the lab's directory. However if it's not, you may need to click through the file 1 or 2 levels deep to find the labs' files in the "labs" directory.
+2. You should see all of the files associated with this lab in the Learn IDE's file browser on the left pane.
 
-This setup—your console open in the lab's directory and the lab directory open in the file browser—that's the state you want to be in when working on a lab on Learn. It means you're ready.
-
-3. In the console, run the test suite by typing `learn` and hitting enter. You'll see something similar to:
+3. In the console on the bottom pane, run the test suite by typing `learn` and hitting enter. You'll see something similar to:
 
 ![lab-fail](https://s3.amazonaws.com/learn-verified/LearnTest.png)
 
@@ -30,8 +28,7 @@ You can see your test is currently failing, which is fine, we haven't done any w
 
 The failure reads: `Make sure you have added a new file or edited edit-me.txt`
 
-4. To pass this lab, make any change to the content of the `edit-me.txt` file.
-
+4. To pass this lab, make any change to the content of the `edit-me.txt` file. You can do this by clicking on the name of the file in the file browser in the left pane; its contents will load in the text editor. Type into the text editor to change the contents of the file, then save your changes.
 
 5. Once your local tests are passing, you can submit this lab by running `learn submit` from your terminal.
 
@@ -41,3 +38,5 @@ You should see this lab pass on Learn.co. Congratulations! You've just solved yo
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/first-lab-ruby-learn-cli-nitrous'>First Lab</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/first-lab-ruby-learn-cli-ile'>First Lab</a> on Learn.co and start learning to code for free.</p>
