@@ -22,7 +22,7 @@ After you click on this, your Learn IDE will launch.
 
 3. In the console on the bottom pane, run the test suite by typing `learn` and hitting enter. You'll see something similar to:
 
-![lab-fail](https://s3.amazonaws.com/learn-verified/LearnTest.png)
+![lab-fail](https://s3.amazonaws.com/learn-verified/LearnRunningLearrn.png)
 
 You can see your test is currently failing, which is fine, we haven't done any work yet, so it makes sense.
 
@@ -32,11 +32,9 @@ The failure reads: `Make sure you have added a new file or edited edit-me.txt`
 
 5. Once your local tests are passing, you can submit this lab by running `learn submit` from your terminal.
 
-![learn-submit](https://s3.amazonaws.com/learn-verified/LearnSubmit.png)
+![learn-submit](https://s3.amazonaws.com/learn-verified/LearnSubmit2.png)
 
 You should see this lab pass on Learn.co. Congratulations! You've just solved your first lab. 
 
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/first-lab-ruby-learn-cli-nitrous'>First Lab</a> on Learn.co and start learning to code for free.</p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/first-lab-ruby-learn-cli-ile'>First Lab</a> on Learn.co and start learning to code for free.</p>
