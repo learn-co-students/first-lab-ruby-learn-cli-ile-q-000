@@ -24,7 +24,7 @@ After you click on this, your Learn IDE will launch.
 
 ![lab-fail](https://s3.amazonaws.com/learn-verified/LearnRunningLearrn.png)
 
-You can see your test is currently failing, which is fine, we haven't done any work yet, so it makes sense.
+You can see your test is currently failing, which is fine. We haven't done any work yet, so it makes sense.
 
 The failure reads: `Make sure you have added a new file or edited edit-me.txt`
 
