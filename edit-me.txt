@@ -1,0 +1,3 @@
+def camera_phone
+  puts "20"
+end
