@@ -5,5 +5,6 @@ describe 'First Lab:' do
     new_file_made = Dir["*"].size > 5
     file_edited = !File.read("./edit-me.txt").empty?
     expect((new_file_made || file_edited)).to be_truthy, "Make sure you have added a new file or edited edit-me.txt"
+    are changes made here? 
   end
 end
