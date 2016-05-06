@@ -1,3 +1,5 @@
 command line: open [lesson]
 'learn-verified'
 'lesson success'
+:success:
+$ lesson complete
