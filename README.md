@@ -38,5 +38,3 @@ You should see this lab pass on Learn.co. Congratulations! You've just solved yo
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/first-lab-ruby-learn-cli-ile'>First Lab</a> on Learn.co and start learning to code for free.</p>
-
-[hello]

@@ -1,5 +1,1 @@
-command line: open [lesson]
-'learn-verified'
-'lesson success'
-:success:
-$ lesson complete
+![learn-submit](https://s3.amazonaws.com/learn-verified/LearnSubmit2.png)
