@@ -7,3 +7,4 @@ Supported configurations
 ------------------------
 Version 7 of this program is known to work with the following
 configurations:
+hola
