@@ -1,0 +1,9 @@
+Introduction
+------------
+This program allows you to run any flavor of Mac OS X inside a VMware
+virtual machine, on any physical machine.
+
+Supported configurations
+------------------------
+Version 7 of this program is known to work with the following
+configurations:
