@@ -1,0 +1,1 @@
+Here's to my first Learn lesson! Hopefully my basic understanding of Python will help me pick up Ruby quickly.
