@@ -1,0 +1,5 @@
+do Starting Lab
+  new_file_made = Dir["*"].size > 5
+  file_edited = !File.read(./edit-me.txt")
+  end
+  end
