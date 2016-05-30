@@ -1,1 +1,1 @@
-puts "Loves Life!"
+puts "Loves Coding!"
