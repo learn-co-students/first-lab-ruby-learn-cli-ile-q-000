@@ -8,7 +8,7 @@
 4. Pass the tests using the `learn` CLI command
 5. Submit the passing lab with the `learn submit` CLI command
 
-## Instructions  
+## Instructions
 
 This lab is just about practicing the lab workflow on Learn using the `learn` CLI.
 
