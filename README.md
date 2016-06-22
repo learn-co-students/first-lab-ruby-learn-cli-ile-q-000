@@ -1,5 +1,7 @@
 # Solving your first Lab
 
+change made here on line 3
+
 ## Objectives
 
 1. Open a lab by clicking "Open" on this page on Learn.co
@@ -16,9 +18,9 @@ This lab is just about practicing the lab workflow on Learn using the `learn` CL
 
 ![Open](https://s3.amazonaws.com/learn-verified/LearnOpen.png)
 
-After you click on this, your Learn IDE will launch. 
+After you click on this, your Learn IDE will launch.
 
-2. You should see all of the files associated with this lab in the Learn IDE's file browser on the left pane.
+2. You should see all of the files associated with this lab in the Learn IfdDE's file browser on the left pane.
 
 3. In the console on the bottom pane, run the test suite by typing `learn` and hitting enter. You'll see something similar to:
 
@@ -34,7 +36,7 @@ The failure reads: `Make sure you have added a new file or edited edit-me.txt`
 
 ![learn-submit](https://s3.amazonaws.com/learn-verified/LearnSubmit2.png)
 
-You should see this lab pass on Learn.co. Congratulations! You've just solved your first lab. 
+You should see this lab pass on Learn.co. Congratulations! You've just solved your first lab.
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/first-lab-ruby-learn-cli-ile'>First Lab</a> on Learn.co and start learning to code for free.</p>
