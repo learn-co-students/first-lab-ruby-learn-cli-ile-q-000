@@ -6,5 +6,3 @@ family
 home
 car
 children
-pets
-peace
