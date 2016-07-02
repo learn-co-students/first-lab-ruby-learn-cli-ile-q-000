@@ -1,0 +1,5 @@
+1) First lab : I made a change to the file
+Failure/Error; expect((new_file_made ll file_edited)).to be_truthy, "Make s
+ure you have added a new file or edited edited edit-me.txt"
+I have edited the edited edit-me.txt
+# ./spec/first_lab_spec.rb:7:1n 'block (2 levels) in <top (required)>'
