@@ -1,0 +1,7 @@
+This is my text file.
+
+// life motto
+if (sad() === true) {
+sad().stop();
+beAwesome();
+}
