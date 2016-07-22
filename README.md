@@ -9,6 +9,7 @@
 5. Submit the passing lab with the `learn submit` CLI command
 
 ## Instructions
+
 This lab is just about practicing the lab workflow on Learn using the `learn` CLI.
 
 1. Click on the "Open" link on the lab toolbar above.
