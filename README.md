@@ -16,7 +16,7 @@ This lab is just about practicing the lab workflow on Learn using the `learn` CL
 
 ![Open](https://s3.amazonaws.com/learn-verified/LearnOpen.png)
 
-After you click on this, your Learn IDE will launch. 
+After you click on this, your Learn IDE will launch.
 
 2. You should see all of the files associated with this lab in the Learn IDE's file browser on the left pane.
 
