@@ -1,0 +1,2 @@
+"Hard work does pay off!"
+number = 2 + 2
